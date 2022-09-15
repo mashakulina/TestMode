@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cfuf3xp62bbicsr7?svg=true)](https://ci.appveyor.com/project/mashakulina/testmode)
